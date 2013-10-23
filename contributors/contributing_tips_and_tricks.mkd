@@ -1,5 +1,5 @@
 ---
-layout: contributors
+layout: developer
 title: Contributing Tips and Tricks
 ---
 
